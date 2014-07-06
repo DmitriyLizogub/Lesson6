@@ -1,6 +1,5 @@
 package com.dmitriy.lesson6;
 
-import java.awt.image.AreaAveragingScaleFilter;
 import java.util.*;
 
 /**
